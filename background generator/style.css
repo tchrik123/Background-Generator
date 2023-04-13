@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Raleway";
+  font-size: 22px;
+  margin-top: 100px;
+  font: "Raleway", sans-serif;
+  letter-spacing: 0.5em;
+  color: rgba(0, 0, 0.5);
+  text-align: center;
+  text-transform: uppercase;
+  background: linear-gradient(to right, red, yellow);
+}
